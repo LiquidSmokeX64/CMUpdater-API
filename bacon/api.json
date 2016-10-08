@@ -2,14 +2,14 @@
  "id": null,
  "result": [
     {
-    "url": "https://fl1.androidfilehost.com/dl/n6Z0YlRjWnsRetaQ-dk6og/1452808584/24369303960683034/cm-UnityROM-4.13.2.zip&task=get",
-    "timestamp": "1452499866",
+    "url": "https://tx1.androidfilehost.com/dl/AQRLEdNkmpu4anXxwdjX0A/1476116771/529152257862666126/cm-PXR-1.0.0-20161007-NIGHTLY-oneplus3.zip&task=get",
+    "timestamp": "1475866820",
     "api_level": "23",
-    "md5sum": "b80bd2c9740bc77a4db929010f9f3076",
-    "filename": "cm-UnityROM-4.13.2.zip",
-    "channel": "SNAPSHOT",
+    "md5sum": "e57212984ffd0166626c917e48672cd0",
+    "filename": "cm-PXR-1.0.0-20161007-NIGHTLY-oneplus3.zip",
+    "channel": "NIGHTLY",
     "changes": " ",
-    "incremental": "6df406b28f"
+    "incremental": "eb19b303b0"
     },
   ],
  "error": null
