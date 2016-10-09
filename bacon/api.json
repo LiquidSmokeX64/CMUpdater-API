@@ -2,14 +2,14 @@
  "id": null,
  "result": [
     {
-    "url": "https://tx1.androidfilehost.com/dl/AQRLEdNkmpu4anXxwdjX0A/1476116771/529152257862666126/cm-PXR-1.0.0-20161007-NIGHTLY-oneplus3.zip&task=get",
-    "timestamp": "1475866820",
+    "url": "https://fl1.androidfilehost.com/dl/vY4xuhpdh4KeTySNJTQiqA/1476283876/457095661767100600/cm-PXR-1.0.0-20161009-NIGHTLY-oneplus3.zip&task=get",
+    "timestamp": "1476038475",
     "api_level": "23",
-    "md5sum": "e57212984ffd0166626c917e48672cd0",
-    "filename": "cm-PXR-1.0.0-20161007-NIGHTLY-oneplus3.zip",
+    "md5sum": "b59600e0d3702b1509040afb18b4af93",
+    "filename": "cm-PXR-1.0.0-20161009-NIGHTLY-oneplus3.zip",
     "channel": "NIGHTLY",
     "changes": " ",
-    "incremental": "eb19b303b0"
+    "incremental": "060d8832ff"
     },
   ],
  "error": null
